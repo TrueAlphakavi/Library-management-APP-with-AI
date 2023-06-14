@@ -8,7 +8,9 @@ Assisstant and integrated chatGPT
   I have developed this App with flutter framework using Dart Language as backend cause I need to perform oops based concept to made it possible
   Please open in a desktop web browser
   Thankyou for the opportunity and your Time ! 
-
+  
+  tryout: https://aibasedlibrary.netlify.app/
+  
 System design:
 ![system_design](https://github.com/TrueAlphakavi/Devrev_webapp/assets/91963588/eff141de-d958-4ecd-9f3b-9cbb9a0aa927)
 
