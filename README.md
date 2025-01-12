@@ -1,5 +1,3 @@
-Task 1
-
 Web App Library for Library Management 
   I have Developed this web app according to the suggestions and expections of the task, in adding to that I have addded a special feature called Sow Voice
 Assisstant and integrated chatGPT
